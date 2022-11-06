@@ -1,6 +1,7 @@
 selam deneme1
 git github deneme 2
 git ucuncu deneme
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 seyma branchi
 =======
@@ -9,3 +10,7 @@ yeni master branchi
 seyma yeni branchi
 strach icin deneme
 >>>>>>> Stashed changes
+=======
+seyma branchi
+yeni master branchi
+>>>>>>> master
